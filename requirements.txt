@@ -1,0 +1,8 @@
+flask
+pandas
+numpy>=2.0
+scikit-learn
+nltk
+beautifulsoup4
+requests
+gunicorn
